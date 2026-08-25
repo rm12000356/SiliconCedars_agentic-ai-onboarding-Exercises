@@ -1,6 +1,6 @@
 from langchain_groq import ChatGroq
 from pydantic import BaseModel, Field
-from langchain.messages import SystemMessage, HumanMessage, AIMessage
+from langchain.messages import SystemMessage
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 import json
@@ -28,12 +28,8 @@ def extract_person_info(text: str, text2: str, model_name: str) -> None:
     )
 
     human_message= "Extract the following information from the text: {text} {text2}."
-    human_message2= HumanMessage(content="the message is correct thanks")
 
-    AI_response_essage = AIMessage(
-        content="{name:John Doe,age: 30,email:john.doe@example.com,good_man:True}"
-    )
-
+    
     chat_prompt_system = ChatPromptTemplate.from_messages([system_message, human_message])
     formated_messages = chat_prompt_system.invoke({"text": text , "text2": text2})
 
