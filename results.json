@@ -1,0 +1,110 @@
+[
+    {
+        "model": "openai/gpt-oss-120b",
+        "time": 1.1218422999372706,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 109,
+        "total_tokens": 408,
+        "reasoning_tokens": 73
+    },
+    {
+        "model": "openai/gpt-oss-20b",
+        "time": 0.7003141000168398,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 98,
+        "total_tokens": 397,
+        "reasoning_tokens": 63
+    },
+    {
+        "model": "qwen/qwen3.6-27b",
+        "time": 1.1166704999050125,
+        "content": "{\n  \"name\": \"John Doe\",\n  \"age\": 30,\n  \"email\": \"john.doe@example.com\",\n  \"good_man\": true\n}",
+        "input_tokens": 221,
+        "output_tokens": 294,
+        "total_tokens": 515,
+        "reasoning_tokens": 246
+    },
+    {
+        "model": "openai/gpt-oss-safeguard-20b",
+        "time": 0.7347286998992786,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 138,
+        "total_tokens": 437,
+        "reasoning_tokens": 103
+    },
+    {
+        "model": "openai/gpt-oss-120b",
+        "time": 0.8723843999905512,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 86,
+        "total_tokens": 385,
+        "reasoning_tokens": 51
+    },
+    {
+        "model": "openai/gpt-oss-20b",
+        "time": 0.8864173000911251,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 84,
+        "total_tokens": 383,
+        "reasoning_tokens": 49
+    },
+    {
+        "model": "qwen/qwen3.6-27b",
+        "time": 3.5001027000835165,
+        "content": "{\n  \"name\": \"John Doe\",\n  \"age\": 30,\n  \"email\": \"john.doe@example.com\",\n  \"good_man\": true\n}",
+        "input_tokens": 221,
+        "output_tokens": 1486,
+        "total_tokens": 1707,
+        "reasoning_tokens": 1443
+    },
+    {
+        "model": "openai/gpt-oss-safeguard-20b",
+        "time": 0.6075186999514699,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 124,
+        "total_tokens": 423,
+        "reasoning_tokens": 89
+    },
+    {
+        "model": "openai/gpt-oss-120b",
+        "time": 0.8338159000268206,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 103,
+        "total_tokens": 402,
+        "reasoning_tokens": 71
+    },
+    {
+        "model": "openai/gpt-oss-20b",
+        "time": 0.6524060999508947,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 86,
+        "total_tokens": 385,
+        "reasoning_tokens": 54
+    },
+    {
+        "model": "qwen/qwen3.6-27b",
+        "time": 3.479984699981287,
+        "content": "{\"name\": \"John Doe\", \"age\": 30, \"email\": \"john.doe@example.com\", \"good_man\": true}",
+        "input_tokens": 221,
+        "output_tokens": 1258,
+        "total_tokens": 1479,
+        "reasoning_tokens": 1225
+    },
+    {
+        "model": "openai/gpt-oss-safeguard-20b",
+        "time": 0.6136402999982238,
+        "content": "{\"name\":\"John Doe\",\"age\":30,\"email\":\"john.doe@example.com\",\"good_man\":true}",
+        "input_tokens": 299,
+        "output_tokens": 94,
+        "total_tokens": 393,
+        "reasoning_tokens": 62
+    }
+]
