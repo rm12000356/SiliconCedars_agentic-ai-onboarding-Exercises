@@ -1,0 +1,63 @@
+Company Handbook: Nimbus Robotics
+
+1. Company Overview
+
+Nimbus Robotics was founded in 2016 in Austin, Texas. The company builds
+autonomous warehouse robots used for inventory scanning and package sorting.
+As of 2026, Nimbus Robotics has around 340 employees and operates in six
+countries: the United States, Canada, Germany, Japan, Brazil, and Australia.
+The company's flagship product line is called the Scout series, which
+includes the Scout Mini, Scout Standard, and Scout Heavy models.
+
+2. Products
+
+The Scout Mini is a compact robot designed for small warehouses under
+10,000 square feet. It has a battery life of approximately 6 hours and can
+carry loads up to 15 kilograms. The Scout Standard is the most widely sold
+model, with a battery life of 10 hours and a load capacity of 40 kilograms.
+The Scout Heavy is designed for industrial distribution centers, with a
+battery life of 8 hours and a load capacity of 150 kilograms. All Scout
+robots use LIDAR-based navigation and can operate without pre-mapped
+facility layouts.
+
+3. Remote Work Policy
+
+Employees at Nimbus Robotics may work remotely up to three days per week,
+subject to manager approval. Engineering and design teams are generally
+granted more flexibility than roles that require on-site hardware testing.
+Employees working remotely are expected to be reachable during core hours,
+defined as 10:00 AM to 3:00 PM local time. Fully remote arrangements are
+only approved on a case-by-case basis and require VP-level sign-off.
+
+4. Vacation and Leave
+
+Full-time employees accrue 18 days of paid vacation per year, in addition
+to 10 paid holidays. New employees begin accruing vacation immediately but
+cannot use accrued days until after their first 90 days of employment.
+Parental leave is offered at 16 weeks fully paid for the primary caregiver
+and 8 weeks fully paid for a secondary caregiver, regardless of gender.
+
+5. Expense Reimbursement
+
+Employees may submit expense reports for approved business travel, client
+meetings, and conference attendance. Reimbursement requests must be
+submitted within 30 days of the expense being incurred. Any single expense
+over $500 requires prior written approval from a director-level manager or
+above. Meals during business travel are reimbursed up to $75 per day.
+
+6. Customer Support
+
+Nimbus Robotics offers three support tiers: Standard, Priority, and
+Enterprise. Standard support includes email support with a 48-hour response
+window. Priority support adds phone support and a 4-hour response window
+during business hours. Enterprise support includes a dedicated account
+manager, 24/7 phone support, and an on-site technician visit within 48
+hours for critical hardware failures.
+
+7. Safety Certifications
+
+All Scout robots are certified under ISO 3691-4, the international
+standard for safety requirements of driverless industrial trucks. The
+Scout Heavy additionally holds CE certification for use in the European
+Union. Nimbus Robotics conducts internal safety audits every quarter and
+publishes an annual safety report on its website.
